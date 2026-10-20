@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Generated artifacts
+*.joblib
+*.pkl
+*.pickle
+data/
+models/
+
+# Local files
+.env
+.DS_Store
